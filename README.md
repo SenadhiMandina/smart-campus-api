@@ -46,7 +46,7 @@ The system uses **in-memory data structures only** (`HashMap` and `ArrayList`) a
 From the project folder:
 
 ```bash
-mvn clean install
+https://github.com/SenadhiMandina/smart-campus-api
 ````
 
 Then deploy the generated WAR file to Tomcat.
